@@ -1,0 +1,59 @@
+.viewJobPosting {
+
+    border: 1px solid #f0f0f0;
+    padding: 24px;
+
+}
+
+.viewJobsPostingsButton {
+
+  background-color: rgb(255, 85, 0);
+  border-color:  rgb(255, 85, 0);
+  padding-top: 8px;
+  padding-bottom:10px;
+  height:auto;
+
+}
+
+.viewJobsPostingsButton:hover {
+
+  background-color: rgb(255, 85, 0);
+  border-color:  rgb(255, 85, 0);
+  opacity: 0.85;
+  
+}
+
+h2.ant-typography.viewJobDetailsTitle {
+
+      color: rgb(255, 85, 0) ;
+      text-align: center;
+    
+}
+
+.tagRow {
+
+  margin-left: 24px;
+  margin-right: 24px;
+    
+}
+
+.notificationTag {
+
+      width: 100%;
+      padding: 15px;
+      overflow: hidden;
+      text-overflow: ellipsis; 
+
+}   
+    
+.checkIcon {
+
+      font-size: 25px;
+      margin-right: 2px;
+      position: relative;
+      top: 5px;
+
+}
+
+
+  

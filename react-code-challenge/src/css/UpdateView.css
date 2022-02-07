@@ -1,0 +1,23 @@
+#update-container h2.ant-typography.updateJobPostingFormTitle {
+  color: #096dd9;
+  text-align: center;
+}
+
+.noJobPostingFoundNotification {
+  color: #ff7875;
+  padding: 15px;
+  border: 1px solid;
+  background-color: #fff6f6;
+  margin: 24px;
+  
+}
+
+.noJobPostingFoundNotification span{
+  margin-left:5px;
+}
+
+.noJobPostingFoundNotification .anticon-close-circle {
+  font-size: 20px;
+  position: relative;
+  top: 2.5px;
+}

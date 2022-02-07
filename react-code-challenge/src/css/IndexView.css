@@ -1,0 +1,74 @@
+.hide-notification {
+
+    background: #f44336;
+    color: #FFFFFF !important;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    float: right;
+    display: block;
+    text-align: center;
+    line-height: 13px;
+    padding: 3px 6px;
+    border: 0px;
+    border-radius: 3px 3px 3px 3px;
+    border-color: #f44336;
+    padding-top: 6px;
+    cursor:pointer;
+
+}
+
+.link-button {
+
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    color: #1890ff;
+
+}
+
+.site-page-header {
+    border: 1px solid rgb(235, 237, 240);
+}
+
+.createbutton {
+
+    background-color: rgb(76,175,80) !important;
+    border-color:  rgb(76,175,80) !important;
+    cursor: pointer;
+    padding-top: 8px;
+    padding-bottom:10px;
+    height:auto;
+
+  }
+
+  .createbutton:hover {
+    opacity:0.85;
+  }
+  /* .deleteJobPostingModal .ant-modal-header {
+    border-bottom: 1px solid #ff7875;
+  } */
+
+  /* .deleteJobPostingModal .ant-modal-footer {
+    border-top: 1px solid #ff7875;
+  } */
+
+  .deleteJobPostingModal .ant-modal-header .ant-modal-title {
+      color: #ff7875;
+  }
+
+  .deleteJobPostingModal .ant-modal-close-x span {
+    color: #ff7875;
+  }
+
+  .jobPostingFieldTitle {
+    color: #ff7875;
+    font-weight: bolder;
+    /* font-size: 16px; */
+  }
+  

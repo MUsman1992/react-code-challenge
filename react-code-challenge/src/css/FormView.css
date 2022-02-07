@@ -1,0 +1,22 @@
+.jobPostingForm {
+
+    border: 1px solid #f0f0f0;
+    padding: 24px;
+
+}
+
+.updatebutton {
+
+    background-color: #1890ff !important;
+    border-color:  #1890ff !important;
+    cursor: pointer;
+    padding-top: 8px;
+    padding-bottom:10px;
+    height:auto;
+    
+}
+
+.updatebutton:hover {
+    opacity:0.85;
+   }
+  
